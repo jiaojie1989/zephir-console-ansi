@@ -1,0 +1,7 @@
+*.php linguist-language=Zephir
+*.c linguist-language=Zephir
+*.h linguist-language=Zephir
+*.js linguist-language=Zephir
+*.gch linguist-language=Zephir
+*.sh linguist-language=Zephir
+*.lo linguist-language=Zephir
